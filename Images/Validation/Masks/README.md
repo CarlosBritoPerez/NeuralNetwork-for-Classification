@@ -1,1 +1,1 @@
-## Directory for validation images of clothespins
+## Directory for validation images of masks
