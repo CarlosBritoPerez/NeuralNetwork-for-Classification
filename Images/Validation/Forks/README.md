@@ -1,1 +1,1 @@
-## Directory for validation images of hands
+## Directory for validation images of forks
